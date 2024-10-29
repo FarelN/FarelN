@@ -15,14 +15,8 @@
   </a>
 </div>
 
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/falahrafi/falahrafi/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+## 🐍 Github Contributions
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 
 <!--
