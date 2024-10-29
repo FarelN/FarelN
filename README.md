@@ -2,11 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=500&color=3DC2EC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Farrel+Nathanael!;" />
 </h1>
 
-<!--
-**FarelN/FarelN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ###
 
 <div align="center"> 
@@ -21,6 +16,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 ###
+
+
+<!--
+**FarelN/FarelN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
