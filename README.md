@@ -15,7 +15,7 @@
   </a>
 </div>
 
-
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/FarelN/FarelN/output/github-contribution-grid-snake.svg" />
 
 <!--
 **FarelN/FarelN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
