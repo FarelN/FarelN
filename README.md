@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/farrel-nathanael" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-    <a href="https://dribbble.com/FarrelN/about?utm_source=Clipboard_%22clipboard_about%22&utm_campaign=%22FarrelN%22&utm_content=%22About%20FarrelN%22&utm_medium=Social_Share" target="_blank">
+    <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
     </a>
   <a href="" target="_blank">
